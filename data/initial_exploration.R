@@ -42,3 +42,24 @@ mosquito_egg_raw |>
 #   No
 # - Any obvious problems?
 #   Skimr wasn't working initially, but then I installed the packages and the problem was solved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
